@@ -1,0 +1,140 @@
+/* Your styles here */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.text-header{
+    text-align: center;    
+    position: absolute;
+    color: rgb(16, 163, 226);
+    z-index: 1;
+
+}
+.text-header p {
+    color: rgb(74, 72, 72) ;
+    padding: 20px 20px 20px 20px;
+}
+header #section{
+    background-image: url(../images/banner.jpg);
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 400px;
+    
+    }
+header img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    
+}
+header {
+    background-color: black;
+    width: auto;
+    height: auto;
+    
+}
+body img {
+    background-color: black;
+}
+footer{
+    background-color: #25a2c3;
+    width: auto;
+    height: auto;
+    color: white;
+    text-align: center;
+    line-height: 1.65;
+    text-indent: 1.2rem;
+    
+}
+#footerh3{
+    color: white;
+    margin-top: 10px;
+    padding: 10px 10px 10px;
+}
+button {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    background-color: #f04c2f ;
+    font-family: 'monterrat', sans-serif;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+h1 {
+   padding-top: 10px;
+   padding-bottom: 10px;
+    text-align: center;
+    font-size: 50px;
+    line-height: normal;
+    text-indent: 0;
+}
+body {
+    background-color: #393d41 ;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-indent : 1.2rem;
+    line-height: 1.65 ;
+}
+main {
+    background-color: white;
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+main p {
+    text-align: center;
+   
+    margin-top: 20px;
+    
+}
+section p {
+        font-size: 20px;
+        text-align: center;
+        padding-top: 5px;
+}
+h3 {
+ font-family: 'montesrrat', sans-serif;
+ color: #25a2c3 ;
+ line-height: 1.5;
+ margin-top: 20px;
+}
+.photo1 {
+    width: 100%;
+    height: auto;
+    margin-bottom:50px ;
+    border: 1px solid grey;
+   margin-left: auto;
+   padding-right:auto;
+
+ 
+  position: relative;
+  text-align: center;
+}
+ section .photo img {
+    border-radius: 1000px;
+ }
+.orange{
+    background-color: #f04c2f;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-indent : 1.2rem;
+    line-height: 1.65 ;
+    color: white;
+    font-size: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+background-repeat: no-repeat;
+    
+}
+
+
+   
+    
